@@ -1,0 +1,15 @@
+C:\Users\ltyc\Desktop\Task64_68\Task_68\bin\MCD\Debug\net6.0\Task_68.exe
+C:\Users\ltyc\Desktop\Task64_68\Task_68\bin\MCD\Debug\net6.0\Task_68.deps.json
+C:\Users\ltyc\Desktop\Task64_68\Task_68\bin\MCD\Debug\net6.0\Task_68.runtimeconfig.json
+C:\Users\ltyc\Desktop\Task64_68\Task_68\bin\MCD\Debug\net6.0\Task_68.dll
+C:\Users\ltyc\Desktop\Task64_68\Task_68\bin\MCD\Debug\net6.0\Task_68.pdb
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.AssemblyInfo.cs
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.dll
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\refint\Task_68.dll
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.pdb
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\Task_68.genruntimeconfig.cache
+C:\Users\ltyc\Desktop\Task64_68\Task_68\obj\MCD\Debug\net6.0\ref\Task_68.dll
